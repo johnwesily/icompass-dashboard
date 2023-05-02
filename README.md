@@ -1,6 +1,6 @@
 # Website Link for the Preview!
 
-# LINL:https://icompass-dashboard.onrender.com/
+# LINK:https://icompass-dashboard.onrender.com/
 
 # Getting Started with Create React App
 
