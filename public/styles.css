@@ -1,0 +1,13 @@
+html,body{
+    border: 0px;
+    margin:0px;
+    height:100%;
+    width:100%;
+    padding: 0px
+}
+
+.app{
+    height: 100vp;
+    width: 100vp;
+}
+
