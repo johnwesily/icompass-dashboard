@@ -44,7 +44,7 @@ function Plan() {
 
         <div class="pricing-col col-lg-4 col-md-12">
           <div class="card bg-danger bg-gradient">
-            <h3>Enterp</h3>
+            <h3>Enterprise</h3>
             <hr></hr>
             <div class="card-body">
               <h2>$99 / mo</h2>
